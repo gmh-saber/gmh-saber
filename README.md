@@ -1,17 +1,19 @@
-<h1 align="center">Hi 👋, I'm Golam Muktadir Hossain Saber</h1>
-<h3 align="center">A MERN Satck developer from Bangladesh</h3>
+<h1 align="center">Hi 👋,</h1>
+<h1 align="center">I'm Golam Muktadir Hossain Saber</h1>
+<h3 align="center">Learning something everyday</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=golammuktadirhossainsaber&label=Profile%20views&color=0e75b6&style=flat" alt="golammuktadirhossainsaber" /> </p>
 
-<p align="left"> <a href="https://twitter.com/gmhsaber20" target="blank"><img src="https://img.shields.io/twitter/follow/gmhsaber20?logo=twitter&style=for-the-badge" alt="gmhsaber20" /></a> </p>
+<p align="left"> <a href="https://twitter.com/gmhsaber" target="_blank"><img src="https://img.shields.io/twitter/follow/gmhsaber?logo=twitter&style=for-the-badge" alt="gmhsaber" /></a> </p>
 
-- 📫 How to reach me **golammuktadirhossain18@gmail.com**
+- 📫 Reach me at **gmh.saber.0@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/gmhsaber20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gmhsaber20" height="30" width="40" /></a>
-<a href="https://fb.com/gmhsaber20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gmhsaber20" height="30" width="40" /></a>
-<a href="https://instagram.com/gmhsaber20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gmhsaber20" height="30" width="40" /></a>
+<br/>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://twitter.com/gmhsaber" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gmhsaber" height="30" width="40" /></a>
+<a href="https://fb.com/gmhsaber20" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gmhsaber20" height="30" width="40" /></a>
+<a href="https://instagram.com/gmh_saber" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gmh_saber" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
